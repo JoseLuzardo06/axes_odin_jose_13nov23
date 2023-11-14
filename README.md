@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Uneweb-blue)
 
-# Project Name
+# task axes
 
 > One paragraph statement about the project.
 
@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://joseluzardo06.github.io/axes_odin_jose_13nov23/)
 
 
 ## Getting Started
@@ -41,20 +41,11 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-## Authors
+## Author
 
-👤 **Arístides José Molina Pérez**
+👤 **Jose Luzardo**
 
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
+- GitHub: [JoseLuzardo06](https://github.com/JoseLuzardo06)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
